@@ -25,18 +25,25 @@
                   <h5 class="card-title">volleyball</h5>
                   <p class="card-text">Smashes puissant,équipes loisir et compétitions.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/volleyball.php"class="btn btn-outline-primary">S'inscrire</a>
-
-          <div class="row g-4"> <!--sert a aligner les cartes avec un espacement-->
-             <div class="col-md-4">
+                    <a href="../cours/cours_info/volleyball.php" class="btn btn-outline-primary">S'inscrire</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
               <div class="card h-100">
                 <img src="../img/volleyball.jpg" class="card-img-top" alt="volleyball">
                 <div class="card-body d-flex flex-column">
                   <h5 class="card-title">tennis</h5>
                   <p class="card-text">Cours tous niveaux, tournois internes.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
+<<<<<<< HEAD
                     <a href="../cours/cours_info/tennis.php"class="btn btn-outline-primary">S'inscrire</a>
                    </div>
+=======
+                    <a href="../cours/cours_info/tennis.php" class="btn btn-outline-primary">S'inscrire</a>
+                  </div>
+>>>>>>> c8cc3deba527e504b2eaf2a21c0c78e95b9e42b5
                 </div>
               </div>
             </div>
@@ -48,14 +55,24 @@
                   <h5 class="card-title">basketball</h5>
                   <p class="card-text">Dribbles, tirs 3 points, matchs amicaux.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
+<<<<<<< HEAD
                     <a href="../cours/cours_info/basketball.php"class="btn btn-outline-primary">S'inscrire</a>
+=======
+                    <a href="../cours/cours_info/basketball.php" class="btn btn-outline-primary">S'inscrire</a>
+>>>>>>> c8cc3deba527e504b2eaf2a21c0c78e95b9e42b5
                   </div>
                 </div>
               </div>
             </div>
+<<<<<<< HEAD
             
 
 
+=======
+          </div>
+        </div>
+  </section>
+>>>>>>> c8cc3deba527e504b2eaf2a21c0c78e95b9e42b5
 
   <?php include '../commun/footer.php'; ?>
 </body> 
