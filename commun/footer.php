@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <img src="../img/logocfa.png" alt="Logo École" height="50" width="125" margin_bottom="30px" class="img-fluid">
+                <img src="./img/logocfa.png" alt="Logo École" height="50" width="125" margin_bottom="30px" class="img-fluid">
             </div>
             <div class="col-md-4">
                 <h5>Club Sportif</h5>

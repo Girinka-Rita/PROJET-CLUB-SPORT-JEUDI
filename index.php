@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Club sportif</title>
-    <style>
-    
-      .carousel-img {
-        height: 300px;
-        object-fit: cover;
-      }
-      @media (max-width: 576px) {
-        .carousel-img { height: 180px; }
-      }
-    </style>
-</head>
 <?php include'commun/header.php'; ?>
-<body>
 <div class="container mt-5">
     <h1>Club Sportif Multi-Sports</h1>
 
@@ -43,5 +25,4 @@
       </button>
     </div>
   </section>
-</body>
-</html>
+<?php include 'commun/footer.php'; ?>
