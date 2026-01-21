@@ -1,4 +1,4 @@
-<?php include'commun/header.php'; ?>
+<?php include 'commun/header.php'; ?>
 <div class="container mt-5">
     <h1>Club Sportif Multi-Sports</h1>
 
@@ -6,13 +6,13 @@
       <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/basketball.jpg" class="d-block w-100 rounded carousel-img" alt="joueurs de basketball">
+            <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/basketball.jpg" class="d-block w-100 rounded carousel-img" alt="joueurs de basketball">
           </div>
           <div class="carousel-item">
-            <img src="img/Volleyball.jpg" class="d-block w-100 rounded carousel-img" alt="joueurs de volleyball">
+            <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/Volleyball.jpg" class="d-block w-100 rounded carousel-img" alt="joueurs de volleyball">
           </div>
           <div class="carousel-item">
-            <img src="img/tennis.jpg" class="d-block w-100 rounded carousel-img" alt="joueurs de tennis">
+            <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/tennis.jpg" class="d-block w-100 rounded carousel-img" alt="joueurs de tennis">
           </div>
         </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">

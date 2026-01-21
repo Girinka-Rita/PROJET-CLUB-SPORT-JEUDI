@@ -6,7 +6,7 @@
                   <h5 class="card-title">volleyball</h5>
                   <p class="card-text">Smashes puissant,équipes loisir et compétitions.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/volleyball.php"class="btn btn-outline-primary">S'inscrire</a>
+                    <a href="inscription.php"class="btn btn-outline-primary">S'inscrire</a>
                     </div>
                 </div>
               </div>
