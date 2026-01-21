@@ -58,8 +58,8 @@
                 <select class="form-select" id="niveau" required>
                     <option value="" disabled selected>Choisissez votre niveaux</option>
 
-                    <option value="basketball">Debutant</option>
-                    <option value="tennis">Intermediaire</option>
+                    <option value="basketball">Débutant</option>
+                    <option value="tennis">Intermédiaire</option>
                     <option value="volleyball">Avancée</option>
                 </select>
             </div>

@@ -25,7 +25,7 @@
                   <h5 class="card-title">tennis</h5>
                   <p class="card-text">Cours tous niveaux, tournois internes.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/tennis.php"class="btn btn-outline-primary">S'inscrire</a>
+                    <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
                    </div>
                 </div>
               </div>
@@ -37,7 +37,7 @@
                   <h5 class="card-title">volleyball</h5>
                   <p class="card-text">Smashes puissant,équipes loisir et compétitions.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/volleyball.php" class="btn btn-outline-primary">S'inscrire</a>
+                    <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
                   </div>
                 </div>
               </div>
@@ -49,8 +49,7 @@
                   <h5 class="card-title">basketball</h5>
                   <p class="card-text">Dribbles, tirs 3 points, matchs amicaux.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="../cours/cours_info/basketball.php"class="btn btn-outline-primary">S'inscrire</a>
-                    <a href="../cours/cours_info/basketball.php" class="btn btn-outline-primary">S'inscrire</a>
+                    <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
                   </div>
                 </div>
               </div>
