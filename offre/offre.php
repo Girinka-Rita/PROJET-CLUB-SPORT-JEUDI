@@ -20,36 +20,48 @@
           <div class="row g-4"> <!--sert a aligner les cartes avec un espacement-->
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="../img/tennis.jpg" class="card-img-top" alt="tennis">
+                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/tennis.jpg" class="card-img-top" alt="tennis">
                 <div class="card-body d-flex flex-column">
                   <h5 class="card-title">tennis</h5>
                   <p class="card-text">Cours tous niveaux, tournois internes.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
+<<<<<<< HEAD
                     <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
+=======
+                    <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php"class="btn btn-outline-primary">S'inscrire</a>
+>>>>>>> f73341137b4ce46bd5504c781ee79548aca3b71c
                    </div>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="../img/volleyball.jpg" class="card-img-top" alt="volleyball">
+                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/volleyball.jpg" class="card-img-top" alt="volleyball">
                 <div class="card-body d-flex flex-column">
                   <h5 class="card-title">volleyball</h5>
                   <p class="card-text">Smashes puissant,équipes loisir et compétitions.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
+<<<<<<< HEAD
                     <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
+=======
+                    <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php" class="btn btn-outline-primary">S'inscrire</a>
+>>>>>>> f73341137b4ce46bd5504c781ee79548aca3b71c
                   </div>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="../img/basketball.jpg" class="card-img-top" alt="basketball">
+                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/basketball.jpg" class="card-img-top" alt="basketball">
                 <div class="card-body d-flex flex-column">
                   <h5 class="card-title">basketball</h5>
                   <p class="card-text">Dribbles, tirs 3 points, matchs amicaux.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
+<<<<<<< HEAD
                     <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
+=======
+                    <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php"class="btn btn-outline-primary">S'inscrire</a>
+>>>>>>> f73341137b4ce46bd5504c781ee79548aca3b71c
                   </div>
                 </div>
               </div>
