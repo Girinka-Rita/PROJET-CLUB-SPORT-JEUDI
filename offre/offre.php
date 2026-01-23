@@ -25,11 +25,7 @@
                   <h5 class="card-title">tennis</h5>
                   <p class="card-text">Cours tous niveaux, tournois internes.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-<<<<<<< HEAD
-                    <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
-=======
                     <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php"class="btn btn-outline-primary">S'inscrire</a>
->>>>>>> f73341137b4ce46bd5504c781ee79548aca3b71c
                    </div>
                 </div>
               </div>
@@ -41,11 +37,7 @@
                   <h5 class="card-title">volleyball</h5>
                   <p class="card-text">Smashes puissant,équipes loisir et compétitions.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-<<<<<<< HEAD
-                    <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
-=======
                     <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php" class="btn btn-outline-primary">S'inscrire</a>
->>>>>>> f73341137b4ce46bd5504c781ee79548aca3b71c
                   </div>
                 </div>
               </div>
@@ -57,11 +49,7 @@
                   <h5 class="card-title">basketball</h5>
                   <p class="card-text">Dribbles, tirs 3 points, matchs amicaux.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-<<<<<<< HEAD
-                    <a href="./inscription.php" class="btn btn-outline-primary">S'inscrire</a>
-=======
                     <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php"class="btn btn-outline-primary">S'inscrire</a>
->>>>>>> f73341137b4ce46bd5504c781ee79548aca3b71c
                   </div>
                 </div>
               </div>
