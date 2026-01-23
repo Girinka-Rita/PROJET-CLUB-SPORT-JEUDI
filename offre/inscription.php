@@ -95,8 +95,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                    <label for="date_naissance" class="form-label">Date de naissance</label>
                    <input type="date" class="form-control" id="date_naissance" name="date_naissance" required>
                 </div>
-                
-
+                <div class="mb-3">
+                   <label for="tel" class="form-label">Téléphone</label>
+                   <input type="tel" class="form-control" id="telephone" name="telephone" pattern="0[0-9\s]{9,13}" placeholder="0X XX XX XX XX" required>
+                </div>
                 <div class="mb-3">
                    <label for="activite" class="form-label">Activité choisie</label>
                 <select class="form-select" id="activite" name="activite" required>
