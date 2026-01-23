@@ -33,6 +33,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $prenom = $connexion->real_escape_string($_POST['prenom']);
     $email = $connexion->real_escape_string($_POST['email']);
     $adresse = $connexion->real_escape_string($_POST['adresse']);
+    $telephone = $connexion->real_escape_string($_POST['telephone']);
     $date_naissance = $connexion->real_escape_string($_POST['date_naissance']);
     $activite = $connexion->real_escape_string($_POST['activite']);
     
@@ -43,8 +44,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $sport_id = $sport['id'];
     
     // Insérer les données
-    $sql = "INSERT INTO membres (nom, prenom, email, adresse, date_naissance, sport_id) 
-            VALUES ('$nom', '$prenom', '$email', '$adresse', '$date_naissance', $sport_id)";
+    $sql = "INSERT INTO membres (nom, prenom, email, adresse, telephone, date_naissance, sport_id) 
+            VALUES ('$nom', '$prenom', '$email', '$adresse', '$telephone', '$date_naissance', $sport_id)";
     
     if ($connexion->query($sql) === TRUE) {
         $message = "Inscription réussie! Bienvenue au club.";
