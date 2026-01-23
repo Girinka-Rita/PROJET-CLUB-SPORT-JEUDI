@@ -6,11 +6,7 @@
                   <h5 class="card-title">Tennis</h5>
                   <p class="card-text">Cours tous niveaux, tournois internes.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-<<<<<<< HEAD
-                    <a href="../cours/cours_info/tennis.php" class="btn btn-outline-primary">S'inscrire</a>
-=======
                     <a href="inscription.php"class="btn btn-outline-primary">S'inscrire</a>
->>>>>>> f73341137b4ce46bd5504c781ee79548aca3b71c
                     </div>
                 </div>
              </div>
