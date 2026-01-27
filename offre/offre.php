@@ -11,28 +11,40 @@
   <?php include '../commun/header.php'; ?>
   <div class="container mt-4">
     <h1>Nos Activités Sportives</h1>
-    <p>Decouvrez basketball, tennis et volleyball avec nos coachs qualifiés.</p>
+    <p>Decouvrez tennis, basketball et volleyball avec nos coachs qualifiés.</p>
   </div>
   <section id="menu" class="py-5">
         <!-- Contenu des offres -->
         <div class="container">
           <h2 class="text-center mb-4">Nos offres</h2>
-          <div class="row g-4"> <!--sert a aligner les cartes avec un espacement-->
+          <div class="row g-4">
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/tennis.jpg" class="card-img-top" alt="tennis">
+                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/tennis2.jpg" class="card-img-top" alt="tennis">
                 <div class="card-body d-flex flex-column">
                   <h5 class="card-title">Tennis</h5>
                   <p class="card-text">Cours tous niveaux, tournois internes.</p>
                   <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php"class="btn btn-outline-primary">S'inscrire</a>
+                    <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php" class="btn btn-outline-primary">S'inscrire</a>
                    </div>
                 </div>
               </div>
             </div>
             <div class="col-md-4">
               <div class="card h-100">
-                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/volleyball.jpg" class="card-img-top" alt="volleyball">
+                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/basketball5.jpg" class="card-img-top" alt="basketball">
+                <div class="card-body d-flex flex-column">
+                  <h5 class="card-title">Basketball</h5>
+                  <p class="card-text">Dribbles, tirs 3 points, matchs amicaux.</p>
+                  <div class="mt-auto d-flex justify-content-between align-items-center">
+                    <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php" class="btn btn-outline-primary">S'inscrire</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card h-100">
+                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/volleyball2.jpg" class="card-img-top" alt="volleyball">
                 <div class="card-body d-flex flex-column">
                   <h5 class="card-title">Volleyball</h5>
                   <p class="card-text">Smashes puissant, équipes loisir et compétitions.</p>
@@ -42,23 +54,8 @@
                 </div>
               </div>
             </div>
-            <div class="col-md-4">
-              <div class="card h-100">
-                <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/basketball.jpg" class="card-img-top" alt="basketball">
-                <div class="card-body d-flex flex-column">
-                  <h5 class="card-title">Basketball</h5>
-                  <p class="card-text">Dribbles, tirs 3 points, matchs amicaux.</p>
-                  <div class="mt-auto d-flex justify-content-between align-items-center">
-                    <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php"class="btn btn-outline-primary">S'inscrire</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            
-
-
-          </div>
-        </div>
+           
+  </div>
   </section>
 
   <?php include '../commun/footer.php'; ?>
