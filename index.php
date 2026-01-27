@@ -17,18 +17,18 @@
   
   .presentation-item {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr; /* chaque colomne occupera 50% de l'espace dispo */
     gap: 40px;
     align-items: center;
     margin-bottom: 80px;
   }
   
   .presentation-item.reverse {
-    direction: rtl;
+    direction: rtl; /* Right-to-Left */
   }
   
   .presentation-item.reverse > * {
-    direction: ltr;
+    direction: ltr; /* Left-to-Right */
   }
   
   .presentation-image {
@@ -93,7 +93,7 @@
     </div>
   </section>
 
-  <!-- Presentation Section -->
+  <!-- Section présentation -->
   <section class="presentation-section">
     <h2 class="text-center mb-5">À Propos de Notre Club</h2>
     
@@ -107,8 +107,8 @@
       <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/basketball.jpg" class="presentation-image" alt="basketball">
     </div>
 
-    <!-- Item 2 -->
-    <div class="presentation-item reverse">
+    <!-- Item 2 REVERSE -->
+    <div class="presentation-item reverse"> <!-- Reverse fait que l'image est à gauche -->
       <div class="presentation-text">
         <h3>🎾 Tennis</h3>
         <p>Découvrez l'art du tennis avec nos instructeurs expérimentés. Nous proposons des cours pour tous les niveaux et des tournois internes réguliers. Développez votre technique et participez à une communauté passionnée.</p>
