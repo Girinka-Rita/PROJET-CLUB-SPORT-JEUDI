@@ -140,7 +140,7 @@ $connexion->close();
                 <?php 
                   $icons = array(
                     'Basketball' => '🏀',
-                    'Tennis' => '🎾',
+                    'Tennis' => '🥎',
                     'Volleyball' => '🏐'
                   );
                   echo isset($icons[$sport['nom']]) ? $icons[$sport['nom']] : '⚽';
