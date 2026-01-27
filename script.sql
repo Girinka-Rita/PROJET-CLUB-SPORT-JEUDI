@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS club_sport;
+USE club_sport;
+
 CREATE TABLE membres (
     id INT PRIMARY KEY AUTO_INCREMENT,
     prenom VARCHAR(50) NOT NULL,
@@ -15,7 +18,7 @@ CREATE TABLE sports (
     id INT PRIMARY KEY AUTO_INCREMENT,
     nom VARCHAR(50) NOT NULL UNIQUE,
     description TEXT,
-    places_max INT DEFAULT 50,  -- optionel: limite de places
+    places_max INT DEFAULT 50,  -- limite de places
     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
 
