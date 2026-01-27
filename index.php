@@ -98,7 +98,7 @@
     <h2 class="text-center mb-5">À Propos de Notre Club</h2>
 
 
-     <div class="presentation-item reverse">
+     <div class="presentation-item">
       <div class="presentation-text">
         <h3>🎾 Tennis</h3>
         <p>Découvrez l'art du tennis avec nos instructeurs expérimentés. Nous proposons des cours pour tous les niveaux et des tournois internes réguliers. Développez votre technique et participez à une communauté passionnée.</p>
@@ -107,7 +107,7 @@
       <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/tennis2.jpg" class="presentation-image" alt="tennis">
     </div>
 
-    <div class="presentation-item">
+    <div class="presentation-item reverse"> <!-- Reverse fait que l'image est à gauche -->
       <div class="presentation-text">
         <h3>🏀 Basketball</h3>
         <p>Rejoignez notre équipe de basketball dynamique. Nos coachs qualifiés vous guideront à travers des entraînements intensifs et des matchs amicaux. Que vous soyez débutant ou confirmé, nous avons une place pour vous.</p>
@@ -116,22 +116,8 @@
       <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/basketball5.jpg" class="presentation-image" alt="basketball">
     </div>
 
-<<<<<<< HEAD
-    <!-- Item 2 REVERSE -->
-    <div class="presentation-item reverse"> <!-- Reverse fait que l'image est à gauche -->
-      <div class="presentation-text">
-        <h3>🎾 Tennis</h3>
-        <p>Découvrez l'art du tennis avec nos instructeurs expérimentés. Nous proposons des cours pour tous les niveaux et des tournois internes réguliers. Développez votre technique et participez à une communauté passionnée.</p>
-        <a href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php" class="btn btn-outline-primary btn-sm">S'inscrire</a>
-      </div>
-      <img src="/Promo321/PROJET-CLUB-SPORT-JEUDI/img/tennis.jpg" class="presentation-image" alt="tennis">
-    </div>
-=======
-
->>>>>>> e19f3504328f48932ea6415ebce77208e4035e3f
-
     <!-- Item 3 -->
-    <div class="presentation-item reverse">
+    <div class="presentation-item">
       <div class="presentation-text">
         <h3>🏐 Volleyball</h3>
         <p>Le volleyball est un sport d'équipe par excellence. Entraînements réguliers, matchs amicaux et compétitions vous attendent. Rejoignez notre communauté de volleyeurs motivés et améliez vos compétences.</p>
