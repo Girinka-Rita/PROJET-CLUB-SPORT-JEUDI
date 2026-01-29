@@ -26,7 +26,7 @@
           <a class="nav-link" href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/inscription.php">Inscription</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/statistique.php">Statistiques </a>
+          <a class="nav-link" href="/Promo321/PROJET-CLUB-SPORT-JEUDI/offre/statistique.php">Nos membres</a>
         </li>
       </ul>
     </div>
