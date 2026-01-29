@@ -88,7 +88,7 @@
       </button>
       <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Prochain</span>
+        <span class="visually-hidden">Suivant</span>
       </button>
     </div>
   </section>
